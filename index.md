@@ -1,4 +1,4 @@
-## Welcome to Kas' Github Page
+## Welcome to Kas' Github page
 
 You can use the [editor on GitHub](https://github.com/KasWanders/KasWanders/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,8 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="foto_kas_1.jpg" width="200">
 
-![Screenshot](foto_kas_1.jpg)
 Flexible and fast-learning individual, who has completed a dual Bachelor’s degree and an Honours MSc in Technical Finance; simultaneously to working at a promising scale-up. Enthusiastic and knowledgeable about Business, Financial Markets and IT. Employment experience at major corporations as well as start-ups. Familiar with delivering €10k+ projects and contributing to cross-country strategies. Having worked with various cultural backgrounds in different departments, I adapt easily to multidisciplinary, diverse professional surroundings.
+
+Feel free to check out my [LinkedIn page](https://www.linkedin.com/in/kas-wanders) for more information on my profile and experience.
+
+### Projects
+
 
 ```markdown
 Syntax highlighted code block
@@ -31,10 +35,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KasWanders/KasWanders/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
