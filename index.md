@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/KasWanders/KasWanders/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screenshot](foto_kas_1.jpg)
+Flexible and fast-learning individual, who has completed a dual Bachelor’s degree and an Honours MSc in Technical Finance; simultaneously to working at a promising scale-up. Enthusiastic and knowledgeable about Business, Financial Markets and IT. Employment experience at major corporations as well as start-ups. Familiar with delivering €10k+ projects and contributing to cross-country strategies. Having worked with various cultural backgrounds in different departments, I adapt easily to multidisciplinary, diverse professional surroundings.
 
 ```markdown
 Syntax highlighted code block
